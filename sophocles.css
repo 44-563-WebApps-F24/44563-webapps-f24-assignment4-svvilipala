@@ -19,6 +19,13 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: aqua;
+    transition:all 0.3s ease;
+}
+.name:hover{
+    text-shadow: 2px 2px 4px rgba(25, 0, 0, 0.7);
+    border: 2px solid blueviolet;
+    padding: 1px;
+    width:fit-content;
 }
 .CHA {
     color:aquamarine;
