@@ -1,0 +1,32 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10;
+    color: black;
+}
+
+.direction {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15;
+    color: black;
+    background-color:lightblue ;
+}
+
+.direction:hover{
+    color:crimson;
+    background-color: aquamarine;
+}
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16;
+    color:black;
+}
+.CH.A {
+     color:firebrick;
+}
+
+.CH.B {
+    color:darkviolet ;
+}
+.CH {
+    color: olive;
+}
