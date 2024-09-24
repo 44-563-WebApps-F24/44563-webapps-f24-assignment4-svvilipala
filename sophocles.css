@@ -32,3 +32,27 @@
  
     color: olive;
 }
+table{
+    border: 1px solid;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-align:initial;
+    border-spacing: 2px;
+    border-color:gray;
+}
+
+th{
+    background-color:lightgreen;
+    color: black;
+    padding: 5px;
+    text-align: center;
+}
+
+td{
+    border:1px solid black;
+    background-color: lightgoldenrodyellow;
+    color:black;
+    text-align: center;
+    padding: 5px; 
+}
+
