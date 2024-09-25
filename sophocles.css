@@ -63,3 +63,18 @@ td{
     padding: 5px; 
 }
 
+    ul.navbar-horizontal li {
+    float:left; 
+    color:red;
+    background-color:lavender;
+    padding: 10px;
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:9px
+}
+    ul.navbar-horizontal a:hover {
+    background-color: #555;
+    color:white;
+    }
+    
